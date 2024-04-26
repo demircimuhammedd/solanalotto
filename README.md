@@ -1,10 +1,5 @@
 # Solanalotto
 
-
-[Website](https://arrowana.github.io/solanalotto/)
-
-[Google Slide presentation](https://docs.google.com/presentation/d/1SuXkktspr3aomyPVLNghnFF5LWCSqLPK9wRp1TJK5g0) 
-
 ## Value proposition
 “A fool and his money are soon parted” this time at least fairly and transparently.
 
